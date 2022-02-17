@@ -4,9 +4,7 @@
 "email": "AAA",
 "password":"1234",
 "Name": "AAA"
- }
-],
-"user1" :[
+ },
  {
 "email": "BBB",
 "password":"4567",
