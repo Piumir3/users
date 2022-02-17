@@ -1,0 +1,15 @@
+ {
+"user1" :[
+ {
+"email": "AAA",
+"password":"1234",
+"Name": "AAA"
+ }
+],
+"user2" :[
+ {
+"email": "BBB",
+"password":"4567",
+"Name": "BBB"
+ }
+ ]}
